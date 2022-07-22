@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ndunguwamaina_" target="blank"><img src="https://img.shields.io/twitter/follow/ndunguwamaina_?logo=twitter&style=for-the-badge" alt="ndunguwamaina_" /></a> </p>
 
-- 🔭 I’m currently working on **To Do List**
+- 🔭 I’m currently searching for **new opportunities**
 
 - 🌱 I’m currently learning **React**
 
