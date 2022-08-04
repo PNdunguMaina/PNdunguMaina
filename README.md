@@ -1,4 +1,4 @@
-<img src="https://worksolutions.ru/uploads/e_Ho_Bd_M_Bva_U2_CU_03eh3_GWP_8_Ko_I_Wd9s_Nd5f19_T_Rd5t_80b2f09eaa.png" />
+
 <h1 align="center">Hi 👋, I'm Patrick Maina</h1>
 <h3 align="center">A passionate Full Stack Developer from Kenya</h3>
 <img align="right" src="https://i.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.webp" width="400" alt="Coding" />
