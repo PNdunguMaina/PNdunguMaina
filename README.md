@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently searching for **new opportunities**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Ruby**
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Javascript, React**
 
 - 📫 How to reach me **ndunguwamaina@gmail.com**
 
