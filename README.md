@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently searching for **new opportunities**
 
-- 🌱 I’m currently learning **Ruby**
+- 🌱 I’m currently learning **Rails**
 
 - 💬 Ask me about **Javascript, React**
 
