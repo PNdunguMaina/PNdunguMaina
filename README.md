@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/ndunguwamaina_" target="blank"><img src="https://img.shields.io/twitter/follow/ndunguwamaina_?logo=twitter&style=for-the-badge" alt="ndunguwamaina_" /></a> </p>
 
-- 🔭 I’m currently searching for **new opportunities**
+- 🔭 I’m currently looking forward to collaborate on **Javascript, React, Ruby on Rails Projects**
 
-- 🌱 I currently completed **Full-stack Web Development course**
-
-- 💬 Ask me about **Javascript, React, Ruby, Ruby on Rails**
+- 💬 Ask me about **Full-stack Web Development**
 
 - 📫 How to reach me **ndunguwamaina@gmail.com**
 
-- ⚡ Fun fact **I think I am charming**
+- ⚡ Fun fact **First, solve the problem. Then, write the code.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" mt-5>
