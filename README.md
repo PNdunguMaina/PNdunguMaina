@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ndunguwamaina_" target="blank"><img src="https://img.shields.io/twitter/follow/ndunguwamaina_?logo=twitter&style=for-the-badge" alt="ndunguwamaina_" /></a> </p>
 
-- 🔭 I’m currently looking forward to collaborate on **Javascript, React, Ruby on Rails Projects**
+- 🔭 I’m currently searching for new opportunities
 
-- 💬 Ask me about **Full-stack Web Development**
+- 💬 Ask me about **Javascript, React, Ruby on Rails**
 
 - 📫 How to reach me **ndunguwamaina@gmail.com**
 
