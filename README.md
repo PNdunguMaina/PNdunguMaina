@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" mt-5>
-<a href="https://codepen.io/pragmatist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="pragmatist" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/pndungumaina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patrick ndung'u" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pndungumaina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Patrick Maina" height="30" width="40" /></a>
+ <a href="https://twitter.com/_ndungumaina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Patrick Maina" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
